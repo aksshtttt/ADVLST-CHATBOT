@@ -1,0 +1,19 @@
+{
+  "functions": {
+    "api/chat.js": {
+      "maxDuration": 10
+    }
+  }
+}
+```
+
+Neeche **"Commit changes"** click karo → popup mein phir **"Commit changes"** click karo
+
+---
+
+**Done!** Repository mein 2 files honi chahiye:
+```
+advlst-api/
+├── api/
+│   └── chat.js
+└── vercel.json
